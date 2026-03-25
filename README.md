@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pokemon_app
 
 A new Flutter project.
@@ -57,4 +56,3 @@ flutter pub get
 
 # Generate file (since you're using build_runner)
 dart run build_runner build
->>>>>>> a63434afb5fc6480af65e28dee717e8a38768555
